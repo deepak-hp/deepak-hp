@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepak-hp
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram: omgitsdeepak
 
