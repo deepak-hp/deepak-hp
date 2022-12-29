@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on react npm libraries
-- 📫 How to reach me instagram: omgitsdeepak
+- 📫 How to reach me instagram: deepak.h.p
 
 <!---
 deepak-hp/deepak-hp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
