@@ -6,7 +6,7 @@ I'm a **Senior Software Engineer** with nearly **6 years of experience** in buil
 
 I enjoy building **micro‑SaaS projects**, solving real-world problems, and creating products that people actually want to use.
 
----
+
 
 ## 🚀 What I Do
 
@@ -18,7 +18,7 @@ I enjoy building **micro‑SaaS projects**, solving real-world problems, and cre
 
 * **SaaS & Indie Projects**: Building AI-powered apps & automation tools
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -27,7 +27,7 @@ I enjoy building **micro‑SaaS projects**, solving real-world problems, and cre
 **Backend:** Node.js, Express, Prisma, PostgreSQL
 **DevOps:** Docker, GitHub Actions
 
----
+
 
 ## 📫 Connect with Me
 
@@ -35,6 +35,6 @@ I enjoy building **micro‑SaaS projects**, solving real-world problems, and cre
 * **LinkedIn:** [https://www.linkedin.com/in/deepak-hp](https://www.linkedin.com/in/deepak-hp)
 * **GitHub:** You're already here 😄
 
----
 
-Thanks for visiting! If you like my work, consider ⭐️ starring a repo — it motivates indie devs like me!
+
+Thanks for visiting! If you like my work, consider ⭐️ starring a repo — it motivates me!
