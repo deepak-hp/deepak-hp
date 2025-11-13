@@ -37,4 +37,4 @@ I enjoy building **micro‑SaaS projects**, solving real-world problems, and cre
 
 
 
-Thanks for visiting! If you like my work, consider ⭐️ starring a repo — it motivates me!
+Thanks for visiting! If you like my work, consider ⭐️ starring a repo, it motivates me!
