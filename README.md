@@ -29,6 +29,12 @@ I enjoy building **micro‑SaaS projects**, solving real-world problems, and cre
 
 
 
+## 🧰 Projects
+
+* **[UtilZilla](https://www.utilzilla.com)** — 39+ free browser-based utility tools (calculators, converters, JSON/hash/dev tools, CSS generators, and more). No signup, no server uploads — everything runs client-side.
+
+
+
 ## 📫 Connect with Me
 
 * **Portfolio:** [https://deepakhp.com](https://deepakhp.com)
